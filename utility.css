@@ -1,0 +1,65 @@
+.border{
+    border: 2px solid red;
+    margin: 3px;
+}
+
+.flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.bg-black{
+    background-color: black;
+    color: white;
+}
+
+.invert{
+    filter: invert(1);
+}
+
+.bg-grey{
+    background-color: rgb(34, 34, 34);
+}
+
+.rounded{
+    border-radius: 5px;
+}
+
+.m-1{
+    margin: 4px;
+}
+
+.p-1{
+    padding: 10px;
+}
+
+.m-top{
+    margin-top: 10px;
+}
+.m-bottom{
+    margin-bottom: 10px;
+}
+
+.flex-center{
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    list-style: none;
+    font-size: 14px;
+    color: white;
+}
+
+
+
